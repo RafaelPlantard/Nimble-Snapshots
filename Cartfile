@@ -1,2 +1,2 @@
 github "Quick/Nimble"
-github "uber/ios-snapshot-test-case" ~> 6.0.0
+github "RafaelPlantard/ios-snapshot-test-case" ~> 6.2.1
